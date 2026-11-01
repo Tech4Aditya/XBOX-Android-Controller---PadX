@@ -1,0 +1,7 @@
+C:/Users/techa/Downloads/padx/build/CMakeFiles/padx_server.dir
+C:/Users/techa/Downloads/padx/build/CMakeFiles/INSTALL.dir
+C:/Users/techa/Downloads/padx/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/techa/Downloads/padx/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/techa/Downloads/padx/build/ViGEmClient/CMakeFiles/ViGEmClient.dir
+C:/Users/techa/Downloads/padx/build/ViGEmClient/CMakeFiles/INSTALL.dir
+C:/Users/techa/Downloads/padx/build/ViGEmClient/CMakeFiles/ALL_BUILD.dir

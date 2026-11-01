@@ -1,0 +1,10 @@
+^C:\USERS\TECHA\DOWNLOADS\PADX\BUILD\CMAKEFILES\D62DFDB990A99EE6F1D80F5D50138D58\GENERATE.STAMP.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -SC:/Users/techa/Downloads/padx/server -BC:/Users/techa/Downloads/padx/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/techa/Downloads/padx/build/padx_server.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

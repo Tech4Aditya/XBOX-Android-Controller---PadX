@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\src\ViGEmClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\include\ViGEm\km\BusShared.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\include\ViGEm\Client.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\include\ViGEm\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\include\ViGEm\Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\src\Internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\src\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\techa\Downloads\padx\server\ViGEmClient\src\ViGEmClient.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{01A4FED6-DF3F-3E10-AF3E-158E8D4E75AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0E7F69B2-F70C-3BA8-82B8-7EFBC072A1FA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
