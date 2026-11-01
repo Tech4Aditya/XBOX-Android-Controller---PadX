@@ -7,7 +7,7 @@ PadX is a two-part system: a Kotlin/Jetpack Compose app that renders an Xbox One
 > No controller? Open the app, open the server, play.
 
 <!-- Add screenshots here -->
-<!-- ![PadX controller screen](docs/controller.png) -->
+<!-- ![DEMO](image.png) -->
 
 ---
 
