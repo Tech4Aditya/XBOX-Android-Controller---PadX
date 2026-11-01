@@ -1,0 +1,96 @@
+PadX Personal Use License
+Version 1.0
+
+Copyright (c) 2026 Aditya Pandey. All rights reserved.
+
+"Software" means all source code, build files, documentation, and other
+materials in this repository, including the Android application source and the
+Windows server source, and any portion of them. "Licensor" means Aditya Pandey.
+"You" means any individual who obtains a copy of the Software.
+
+1. GRANT OF LICENSE
+   Subject to the terms below, the Licensor grants You a limited,
+   non-exclusive, non-transferable, non-sublicensable, revocable license to:
+   (a) download and view the Software;
+   (b) build and run the Software on devices You own or control, for Your own
+       personal, non-commercial use;
+   (c) make modifications to Your own copy for Your own personal,
+       non-commercial use; and
+   (d) keep a reasonable number of private backup copies for those purposes.
+
+2. RESTRICTIONS
+   Except as expressly allowed in Section 1 or by written permission from the
+   Licensor, You may NOT:
+   (a) copy, reproduce, republish, mirror, or upload the Software or any
+       substantial part of it to any other repository, website, app store,
+       file-sharing service, or public or private distribution channel;
+   (b) distribute, share, sell, rent, lease, lend, sublicense, or otherwise
+       make the Software available to any third party, whether free of charge
+       or for payment, in source or compiled form, modified or unmodified;
+   (c) publish or distribute compiled builds (including APK, AAB, or EXE
+       files) of the Software or of any modified version;
+   (d) use the Software, or any part of it, in a commercial product or
+       service, or for any commercial purpose;
+   (e) use the Software or its source to train, fine-tune, or build datasets
+       for machine learning models intended for redistribution or commercial
+       use;
+   (f) present the Software or any derivative of it as Your own work, or
+       remove or alter any copyright, license, or attribution notice;
+   (g) use the name "PadX" or the Licensor's name or handles to endorse or
+       promote any other product or service.
+
+3. PLATFORM TERMS
+   If the Software is hosted on a platform whose terms of service let other
+   users view or fork public repositories within that platform (for example,
+   GitHub), such platform-level features are permitted only to the extent
+   required by those terms. They do not grant You any right beyond this
+   License. Any fork or copy remains subject to this License in full.
+
+4. THIRD-PARTY COMPONENTS
+   This License covers only the Licensor's original work. The Software depends
+   on third-party components, including ViGEmClient, the ViGEmBus driver, the
+   Android SDK, and Jetpack libraries. Each is licensed separately by its own
+   authors, and nothing in this License changes those licenses. You are
+   responsible for complying with them.
+
+5. CONTRIBUTIONS
+   If You submit a contribution (such as a pull request or patch) to the
+   Licensor, You grant the Licensor a perpetual, worldwide, irrevocable,
+   royalty-free license to use, modify, and distribute that contribution as
+   part of the Software under any terms the Licensor chooses. You confirm that
+   You have the right to make the contribution. Submitting a contribution does
+   not give You any ownership of the Software.
+
+6. OWNERSHIP
+   The Software is licensed, not sold. The Licensor retains all right, title,
+   and interest in the Software. No rights are granted except those expressly
+   stated in this License.
+
+7. TERMINATION
+   This License terminates automatically if You breach any of its terms. On
+   termination You must stop using the Software and delete all copies in Your
+   possession. The Licensor may also revoke this License for any person at any
+   time by written notice. Sections 2, 4, 6, 8, 9, and 10 survive termination.
+
+8. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. The Software sends input to
+   a computer over a network without authentication; You use it at Your own
+   risk.
+
+9. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE
+   FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+   CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH
+   THE SOFTWARE OR ITS USE.
+
+10. GOVERNING LAW
+    This License is governed by the laws of India, without regard to its
+    conflict-of-laws rules.
+
+11. PERMISSIONS
+    To request permission for anything this License does not allow (for
+    example, sharing with a friend, showing the project in a portfolio, or
+    commercial use), contact the Licensor through GitHub: @Tech4Aditya.
+    Permission is valid only if given in writing by the Licensor.

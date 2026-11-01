@@ -191,5 +191,5 @@ Kotlin, Jetpack Compose, Kotlin Coroutines, C++17, Winsock2, [ViGEmClient](https
 Built by Aditya Pandey ([@Tech4Aditya](https://github.com/Tech4Aditya)).
 
 ## License
-
-Choose a license before publishing (MIT is a common default). Note that ViGEmClient and ViGEmBus have their own licenses.
+This build has its own license.
+Note that ViGEmClient and ViGEmBus have their own licenses.
